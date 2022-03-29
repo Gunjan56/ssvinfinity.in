@@ -15,9 +15,8 @@ Azure Static Web Apps is a service that automatically builds and deploys full st
 7. First-class GitHub and Azure DevOps integration where repository changes trigger builds and deployments.
 8. Globally distributed static content, putting content closer to your users.
 
-Here you can see the clone: https://nice-mud-0ac99ad10.1.azurestaticapps.net/
+Here you can see the clone:https://zealous-river-0ad287910.1.azurestaticapps.net
 
 Project demo: https://www.youtube.com/watch?v=NCWi0bf3mqo
-
-Screenshot (153)
+![Screenshot (33)](https://user-images.githubusercontent.com/85599079/160582013-54833d90-0c5d-4803-89ac-a8b74a4b18d1.png))
 
